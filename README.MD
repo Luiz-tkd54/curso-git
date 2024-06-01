@@ -2,7 +2,7 @@
 
  Aqui neste arquivo README teremos as informações relativas ao nosso projeto.
 
- # subtítulo do README
+ ## subtítulo do README
 
  -Tópico 1: ti ti ti
  -Tópico 2: bla bla bla bla 
